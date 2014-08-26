@@ -1,4 +1,5 @@
 
+// Brett Burton
 // input class example adapted from code by
 // Daniel Shiffman
 // http://www.learningprocessing.com

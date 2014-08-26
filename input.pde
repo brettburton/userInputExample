@@ -7,7 +7,6 @@ int keyCount = typing.length();
 int buffSize = 25;
 int x = 0;
 int y = 0;
-Boolean inBuffer = true;
   
 void display(int x_, int y_){
   
